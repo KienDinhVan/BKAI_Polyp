@@ -6,8 +6,11 @@ git clone https://github.com/KienDinhVan/BKAI_Polyp.git
 ~~~
 cd BKAI_Polyp
 ~~~
+
+## Download checkpoint from
+
 ~~~
-download check point from: https://drive.google.com/file/d/1Eh9_2jZ4UBJH-TWLfoos30Mtfs9yZePr/view?usp=sharing
+https://drive.google.com/file/d/1Eh9_2jZ4UBJH-TWLfoos30Mtfs9yZePr/view?usp=sharing
 ~~~
 ~~~
 pip install -r requirements.txt
