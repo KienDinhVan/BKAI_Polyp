@@ -1,0 +1,8 @@
+torch
+opencv-python
+torchvision
+albumentations
+segmentation-models-pytorch
+pytorch-lightning
+wandb
+pandas
